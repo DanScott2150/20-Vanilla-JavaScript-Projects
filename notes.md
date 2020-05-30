@@ -14,3 +14,10 @@
 3. Custom Video Player
 
 - <video> tag and API, creating custom controls
+
+
+4. Currency Exchange Rate
+
+- Using SVG: background-image, background-position, background-size, no-repeat
+- JSON
+- fetch API
