@@ -21,3 +21,16 @@
 - Using SVG: background-image, background-position, background-size, no-repeat
 - JSON
 - fetch API
+
+5. DOM Array Methods
+- Fetch API via async/await, rather than chaining .then()'s
+- document.createElement ==> appendChild() vs. append()
+- JavaScript Intl API ==> https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl
+  = Intl.NumberFormat() for easy number formatting
+- Array.forEach() and Array.map() [mostly already known]
+- Array.sort() and Array.filter()
+  - Default sort() method sorts as strings. Which isn't useful for numbers (1, 110, 2, 3, etc). Instead use compare function. Good explanation: https://stackoverflow.com/questions/6567941/how-does-sort-function-work-in-javascript-along-with-compare-function
+  - Filter() to remove items
+- Array.reduce() - a bit more complicated. Doesn't return array, returns single (accumulated) value.
+  - Array.reduce((accum, num) => (accum + num), 0);
+  Adds all numbers in array. 0 is starting point.
