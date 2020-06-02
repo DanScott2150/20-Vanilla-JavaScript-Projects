@@ -43,3 +43,13 @@
     - center modal on page via position absolute, top/left 50%, tranform: translate(-50%, -50%)
     - When toggling nav overlay, use translateX(__px) on body. __px being width of nav
     - Animation via keyframes
+
+6. Hangman Game
+
+  - Using SVG
+  - display: inline-flex?
+  - button click effect, transform: scale(0.98), for 'pulse shrink'
+  - Array.includes() method
+  - keydown event, keycodes for specific keys
+  - Template literal strings, can use backticks within backticks
+  - Array.splice(0) to remove all items from array
