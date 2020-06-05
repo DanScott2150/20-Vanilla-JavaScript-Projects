@@ -44,7 +44,7 @@
     - When toggling nav overlay, use translateX(__px) on body. __px being width of nav
     - Animation via keyframes
 
-6. Hangman Game
+7. Hangman Game
 
   - Using SVG
   - display: inline-flex?
@@ -53,3 +53,6 @@
   - keydown event, keycodes for specific keys
   - Template literal strings, can use backticks within backticks
   - Array.splice(0) to remove all items from array
+
+  8. Meal Finder App
+  - 
