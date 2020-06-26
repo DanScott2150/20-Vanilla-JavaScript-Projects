@@ -55,4 +55,10 @@
   - Array.splice(0) to remove all items from array
 
   8. Meal Finder App
-  - 
+  9. Expense Tracker
+
+
+10. Music Player
+  - Audio API
+  - background-image: linear-gradient() CSS
+  - CSS object-fit: cover (?)
