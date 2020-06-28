@@ -62,3 +62,9 @@
   - Audio API
   - background-image: linear-gradient() CSS
   - CSS object-fit: cover (?)
+
+11. Infinite Scroll blog posts + filter
+  - keyframes loading animation
+  - async/await + fetch
+  - Bottom-scroll event listener
+  - Filter functionality via array.indexOf
